@@ -1,9 +1,10 @@
 import React from 'react';
+import Game from "./components/Game"
 
 const Page = () => {
   return (
     <div>
-      Hello World
+      <Game/>
     </div>
   );
 }

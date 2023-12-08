@@ -25,3 +25,4 @@ const Board = ({squares, onClick}) => {
 }
 
 export default Board;
+
